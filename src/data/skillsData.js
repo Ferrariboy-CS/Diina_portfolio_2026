@@ -1,0 +1,37 @@
+export const skills = {
+  technical: [
+    { name: 'Field Research', level: 90 },
+    { name: 'Data Collection & Analysis', level: 85 },
+    { name: 'Fish Population Assessment', level: 80 },
+    { name: 'Aquaculture Techniques', level: 75 },
+    { name: 'Statistical Analysis', level: 70 },
+    { name: 'GIS & GPS Mapping', level: 65 },
+    { name: 'Water Quality Testing', level: 80 },
+    { name: 'Marine Species Identification', level: 85 },
+  ],
+  soft: [
+    { name: 'Teamwork', icon: '👥' },
+    { name: 'Communication', icon: '💬' },
+    { name: 'Leadership', icon: '🎯' },
+    { name: 'Problem Solving', icon: '🧩' },
+    { name: 'Critical Thinking', icon: '🧠' },
+    { name: 'Adaptability', icon: '🔄' },
+    { name: 'Time Management', icon: '⏰' },
+    { name: 'Attention to Detail', icon: '🔍' },
+  ],
+  tools: [
+    'Microsoft Office Suite',
+    'SPSS Statistics',
+    'R Programming',
+    'QGIS',
+    'FiSAT (Fish Stock Assessment)',
+    'Laboratory Equipment',
+    'Field Sampling Equipment',
+    'GPS Devices',
+  ],
+  languages: [
+    { name: 'English', level: 'Fluent', percentage: 95 },
+    { name: 'Afrikaans', level: 'Conversational', percentage: 70 },
+    { name: 'Oshiwambo', level: 'Native', percentage: 100 },
+  ],
+}
